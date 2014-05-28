@@ -16,7 +16,7 @@ global class GP_ElasticSearchHelper {
         }
         insertProjects(projectIds);
         
-        // can i see this?
+        // why can't i upload this to git?
     }
     
     public static void insertProjects(List<string> projectIds){                     
